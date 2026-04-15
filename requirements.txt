@@ -4,3 +4,8 @@ matplotlib
 scikit-learn
 jupyter
 openpyxl
+
+
+## ▶️ How to Run
+
+1. Install dependencies:
