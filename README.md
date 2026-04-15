@@ -46,7 +46,7 @@ This project demonstrates an end-to-end financial data analysis workflow using a
 
 1. Install dependencies:
 
-2. Run scripts from the `src` folder
+2. Run scripts from the `notebooks` folder
 
 ---
 
