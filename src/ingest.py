@@ -1,7 +1,7 @@
 import pandas as pd
 
 def load_data():
-    df = pd.read_csv("data/raw/SampleSuperstore.csv", encoding="latin1", engine="python")
+    df = pd.read_csv("data/raw/SampleSuperstore.csv", encoding="latin1")
     print("Data loaded successfully")
     print(df.shape)
     return df
