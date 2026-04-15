@@ -36,7 +36,3 @@ This project demonstrates an end-to-end financial data analysis workflow using a
 - Sales performance varies significantly across regions
 - Technology category drives the highest profit contribution
 - Identified trends in monthly sales growth over time
-
----
-
-## 📂 Project Structure
