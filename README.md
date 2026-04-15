@@ -36,3 +36,23 @@ This project demonstrates an end-to-end financial data analysis workflow using a
 - Sales performance varies significantly across regions
 - Technology category drives the highest profit contribution
 - Identified trends in monthly sales growth over time
+
+
+## 📂 Project Structure
+
+---
+
+## ▶️ How to Run
+
+1. Install dependencies:
+
+2. Run scripts from the `src` folder
+
+---
+
+## 📁 Dataset
+
+Dataset sourced from Kaggle (sample version included for development purposes).
+
+## 🚀 Author
+Darlington Ekeopara
